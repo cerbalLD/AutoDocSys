@@ -1,2 +1,4 @@
 *.pyc
 api_report.md
+vendor/tree-sitter-c-sharp/
+vendor/tree-sitter-python/
